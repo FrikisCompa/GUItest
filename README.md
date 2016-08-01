@@ -9,4 +9,7 @@ Prueba del GUI, avances, aplicaciones etc
     
     
     -Ese gui lo habia pensado pero no me gusta se ve como win8 :S
+    
+    
+    // Añadida carpeta por si quieres ver la pantalla de carga de igual modo hay un screen de la misma, solo a modo de muestra eso lo consegui en la red y me parecio pertinente compartirlo, esta modificado para que se pueda ver la imagen y la barra de carga cualquier.
 
